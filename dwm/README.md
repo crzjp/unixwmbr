@@ -90,6 +90,7 @@
   <br /><br />
   <a href="https://gitlab.com/crzjp/my-dotfiles">
     <img alt="Captura de tela / Gif" src="https://gitlab.com/crzjp/my-dotfiles/-/raw/master/.config/dwm/dwm.png" />
+    <img alt="Captura de tela / Gif" src="https://gitlab.com/crzjp/my-dotfiles/-/raw/master/.config/slock/slock.png" />
   </a>
   <br/><br/>
 </div>
